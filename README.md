@@ -1,4 +1,4 @@
-## [mlcourse.ai](mlcourse.ai), open Machine Learning course
+## [mlcourse.ai](https://mlcourse.ai), open Machine Learning course
 
 ![ODS stickers](https://github.com/Yorko/mlcourse.ai/blob/master/img/ods_stickers.jpg)
 
@@ -22,7 +22,7 @@ This is the list of published articles on medium.com [:uk:](https://medium.com/o
 10. Gradient Boosting [:uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-10-gradient-boosting-c751538131ac) [:ru:](https://habrahabr.ru/company/ods/blog/327250/), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/topic-10-gradient-boosting)
 
 ### Lectures
-Videolectures are uploaded to [this](https://www.youtube.com/watch?v=DzXgyOcbZZk&list=PLVlY_7IJCMJeRfZ68eVfEcu-UcN9BbwiX) YouTube playlist.
+Videolectures are uploaded to [this](https://bit.ly/2zY6Xe2) YouTube playlist.
 
 Introduction, [video](https://youtu.be/QKTuw4PNOsU), [slides](https://bit.ly/2NuadRV)
 
@@ -31,7 +31,8 @@ Introduction, [video](https://youtu.be/QKTuw4PNOsU), [slides](https://bit.ly/2Nu
 
 
 ### Assignments
-1. Exploratory data analysis of Olympic games with Pandas, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_fall2018/assignment1_pandas_olympic.ipynb). Deadline: **October 14, 20:59 CET**
+1. Exploratory Data Analysis of Olympic games with Pandas, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_fall2018/assignment1_pandas_olympic.ipynb?flush_cache=true). Deadline: **October 14, 20:59 CET**
+2. Exploratory Data Analysis of US flights,  [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_fall2018/assignment2_USA_flights.ipynb?flush_cache=true). Deadline: **October 21, 20:59 CET**
 
 Demo assignments, just for practice, not to be accounted in rating
 1. Exploratory data analysis with Pandas, [nbviewer](https://mlcourse.ai/notebooks/blob/master/jupyter_english/assignments_demo/assignment01_pandas_uci_adult.ipynb?flush_cache=true), [Kaggle Kernel](https://www.kaggle.com/kashnitsky/assignment-1-pandas-and-uci-adult-dataset)
@@ -55,8 +56,7 @@ Throughout the course we are maintaining a student rating. It takes into account
 ### Community
 Discussions between students are held in the **#mlcourse_ai** channel of the OpenDataScience Slack team. Fill in [this form](https://drive.google.com/open?id=1_pDNuVHwBxV5wuOcdaXoxBZneyAQcqfOl4V2qkqKbNQ) to get an invitation. The form will also ask you some personal questions, don't hesitate :wave:
 
-### Wiki Pages
-- [Prerequisites: Python, math, software, and DevOps](https://github.com/Yorko/mlcourse.ai/wiki/Prerequisites:-Python,-math,-software,-and-DevOps) – how to get prepared for the course
-- [1st session in English: all activities accounted for in rating](https://github.com/Yorko/mlcourse_open/wiki/1st-session-in-English:-all-activities-accounted-for-in-rating)
+### More info
+Go to [mlcourse.ai](https://mlcourse.ai)
 
 *The course is free but you can support organizers by making a pledge on [Patreon](https://www.patreon.com/ods_mlcourse)*
