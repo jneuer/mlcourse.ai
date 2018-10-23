@@ -111,4 +111,11 @@ dmypy.json
 
 # large data files
 data/athlete_events.csv
+data/120-years-of-olympic-history-athletes-and-results/
+data/2008.csv.bz2
 
+# Docker
+docker_files/Dockerfile
+
+# Solution files
+jupyter_english/assignments_fall2018/assignment2_USA_flights_solution.ipynb
